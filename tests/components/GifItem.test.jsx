@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react";
-import { GifItem } from "../../components"
+import { GifItem } from "../../src/components"
 
 
 describe('Pruebas en <GitItem />', () => {
